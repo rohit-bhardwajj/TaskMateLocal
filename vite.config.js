@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'dist', // Ensure this is the directory Netlify expects
   },
-  base: '/TaskMateLocal/',
+  
 })
